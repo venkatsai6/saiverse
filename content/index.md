@@ -1,8 +1,10 @@
 ---
 title: saiverse
+date: 2025-05-05
+enableToc: false
 ---
 
-Hi, I'm Venkat Sai.  &nbsp; &nbsp; */ when-cut sa-yee /* 😄 \
+Hi, I'm Venkat Sai.  &nbsp; &nbsp; */ when-cut sa-yee /* 😄
 <div class="flex">
   <img src="assets/my-name.png" width="35%">
   <img src="assets/bruhh.png" width="50%">
