@@ -1,5 +1,12 @@
+---
+title: thinking
+date: 2025-05-15
+description: funny things about human thinking
+tags: brain , think
+enableToc: false
+---
+## The Transcendental Mess of Human Thinking
 
-# The Transcendental Mess of Human Thinking
 ![human-brain](../assets/human-brain-2.png)
 The human brain, a three-pound mass or [1.3 - 1.4] kilograms of soft tissue, which mysteriously generates ideas like jump in nowhere water, concepts in quantum physics, unconventional thoughts, and the puzzling urge to check the refrigerator multiple times, even when we know nothing new will be there or check car keys on the key hanger which you actually kept it just a minute ago. It's a relatable chaos. Yes or No? 🤷‍♂️
 

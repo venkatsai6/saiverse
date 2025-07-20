@@ -1,5 +1,5 @@
 ---
-title: saiverse
+title: sai'verse
 date: 2025-05-05
 enableToc: false
 ---
@@ -14,3 +14,10 @@ While I love building user interfaces, I'm careful not to become too attached to
 A touch of introversion paired with binge-watching high-octane action movies with dutch angle frames, explosions in glorious slow-mo and many more.
 
 When I'm not coding or dodging small talk, I'll be mostly wandering the places, listening to music and rogue thoughts that I'll overthink later. I'm a walking paradox: quiet but bold, solitary but curious and always ready for the next adventure—preferably with a dark-mode map 😉.
+
+## My Social Links
+
+- [Peerlist](https://peerlist.io/venkatsai)
+- [GitHub](https://github.com/venkatsai6)
+- [Behance](https://www.behance.net/venkatsai3)
+- [Linkedin](https://www.linkedin.com/in/venkat-sai-p/)
