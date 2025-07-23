@@ -13,7 +13,7 @@ While I love building user interfaces, I'm careful not to become too attached to
 
 A touch of introversion paired with binge-watching high-octane action movies with dutch angle frames, explosions in glorious slow-mo and many more.
 
-When I'm not coding or dodging small talk, I'll be mostly wandering the places, listening to music and rogue thoughts that I'll overthink later. I'm a walking paradox: quiet but bold, solitary but curious and always ready for the next adventure—preferably with a dark-mode map 😉.
+When I'm not working or dodging a small talk, I'll be mostly wandering the places, listening to music and have rogue thoughts that I'll overthink later. I'm a walking paradox: quiet but bold, solitary but curious and always ready for the next adventure—preferably with a dark-mode map 😉.
 
 ## My Social Links
 
